@@ -17,7 +17,6 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import {VideoCard} from "material-ui-player";
 import { CardMedia } from "@material-ui/core";
-import video from "./video";
 
 function App() {
   return (

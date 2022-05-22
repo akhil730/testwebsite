@@ -2,7 +2,6 @@ import React from "react";
 import "./photoo.png";
 import "../App.css";
 import { CardMedia } from "@material-ui/core";
-import video from "../video";
 
 
 export default function Skills() {
