@@ -24,8 +24,37 @@
   color: white;
 }
 
+.sk{
+  display: flex;
+  align-content: left;
+}
+
 .App-link {
   color: #61dafb;
+}
+
+.Header {
+  position: relative;
+  height: 100px;
+  width: 100%;
+ }
+
+.home{
+  text-align: right;
+  display: flex;
+}
+
+.Button{
+  color: #3fb57c;
+}
+
+.right{
+  align-items: right;
+}
+
+.vid{
+  display: flex;
+  align-content: center;
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +65,4 @@
     transform: rotate(360deg);
   }
 }
+
